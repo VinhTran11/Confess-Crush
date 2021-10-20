@@ -9,8 +9,8 @@ Sắc son như heo đất
 Đủ chất như...heo thịt
 Chúc mừng, chúc mừng!!!`,
     btnIntro: '^^HiHi^^',
-    title: 'No pain no gain',
-    desc: 'Chúc nè hehe',
+    title: 'Chúc chị 20/10 vui vẻ nè hehe',
+    desc: 'No pain no gain',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Tới ĐN chơi nha <3',
